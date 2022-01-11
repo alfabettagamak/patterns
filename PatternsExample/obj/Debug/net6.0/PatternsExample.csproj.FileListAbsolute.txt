@@ -1,0 +1,15 @@
+D:\testing\Patterns\PatternsExample\PatternsExample\bin\Debug\net6.0\PatternsExample.exe
+D:\testing\Patterns\PatternsExample\PatternsExample\bin\Debug\net6.0\PatternsExample.deps.json
+D:\testing\Patterns\PatternsExample\PatternsExample\bin\Debug\net6.0\PatternsExample.runtimeconfig.json
+D:\testing\Patterns\PatternsExample\PatternsExample\bin\Debug\net6.0\PatternsExample.dll
+D:\testing\Patterns\PatternsExample\PatternsExample\bin\Debug\net6.0\ref\PatternsExample.dll
+D:\testing\Patterns\PatternsExample\PatternsExample\bin\Debug\net6.0\PatternsExample.pdb
+D:\testing\Patterns\PatternsExample\PatternsExample\obj\Debug\net6.0\PatternsExample.csproj.AssemblyReference.cache
+D:\testing\Patterns\PatternsExample\PatternsExample\obj\Debug\net6.0\PatternsExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\testing\Patterns\PatternsExample\PatternsExample\obj\Debug\net6.0\PatternsExample.AssemblyInfoInputs.cache
+D:\testing\Patterns\PatternsExample\PatternsExample\obj\Debug\net6.0\PatternsExample.AssemblyInfo.cs
+D:\testing\Patterns\PatternsExample\PatternsExample\obj\Debug\net6.0\PatternsExample.csproj.CoreCompileInputs.cache
+D:\testing\Patterns\PatternsExample\PatternsExample\obj\Debug\net6.0\PatternsExample.dll
+D:\testing\Patterns\PatternsExample\PatternsExample\obj\Debug\net6.0\ref\PatternsExample.dll
+D:\testing\Patterns\PatternsExample\PatternsExample\obj\Debug\net6.0\PatternsExample.pdb
+D:\testing\Patterns\PatternsExample\PatternsExample\obj\Debug\net6.0\PatternsExample.genruntimeconfig.cache
